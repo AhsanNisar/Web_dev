@@ -16,7 +16,7 @@ table {
     color: white;
 }
 .navbar-light .navbar-brand{
-    background-color: #0bada6;
+    background-color: #584ad6;
     color: white;
     padding: 10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -66,14 +66,14 @@ table {
 }
 
 .title{
-    color: #0BADA6;  
+    color: #584ad6;  
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold; 
     padding-top: 25px; 
 }
 
 .active, .panel:hover{
-  border-color:#0BADA6;
+  border-color:#584ad6;
   border-style: solid; 
   border-width: 1px;
 }
@@ -82,7 +82,7 @@ footer{
     background-color: #666666; 
     border-top-style: solid; 
     border-top-width: 5px; 
-    border-top-color: #0BADA6;
+    border-top-color: #584ad6;
     color: white; 
     min-height: 60px;
     padding-top: 15px; 
@@ -104,7 +104,7 @@ footer{
 @media only screen and (max-width: 992px){
     
     .navbar-expand-lg{
-    background-color: #0BADA6 !important;
+    background-color: #584ad6 !important;
     }
 
     .side-img {
